@@ -77,7 +77,7 @@
 .elementos-um-text{
     font-size: 1.1rem;
     padding: 0rem 30rem 30rem 30rem;
-    padding-top: 10.5rem;
+    padding-top: 13rem;
     color: #fff;
     font-family: Nexa;
     font-weight: 600;
@@ -94,6 +94,7 @@
     background-size: cover;
     background-position: center;
     width: 100%;
+    height: 120vh;
 }
 
 .sectiontwo-container{
